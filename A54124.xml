@@ -1,0 +1,867 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the flag of St. Martin's steeple, and the standard at the Tower</title>
+            <author>W. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54124</idno>
+            <idno type="STC">Wing P127</idno>
+            <idno type="STC">ESTC R217464</idno>
+            <idno type="EEBO-CITATION">99829129</idno>
+            <idno type="PROQUEST">99829129</idno>
+            <idno type="VID">33565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1974:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the flag of St. Martin's steeple, and the standard at the Tower</title>
+                  <author>W. P.</author>
+               </titleStmt>
+               <extent>[6], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D.E. and sold by A. Baldwin, near the Oxford Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The epistle dedicatory is signed: W.P.</note>
+                  <note>In verse.</note>
+                  <note>Gathered in 4's.</note>
+                  <note>Note: copy catalogued is slightly trimmed at fore-edge.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33565:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Between the FLAG OF St. <hi>MARTIN</hi>'s Steeple, AND THE <hi>Standard</hi> AT THE TOWER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D.E.</hi> and fold by <hi>A. Baldwin,</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick-Lane.</hi> MDCXCVIII.</p>
+            <pb facs="tcp:33565:2" rendition="simple:additions"/>
+            <pb facs="tcp:33565:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33565:3"/>
+            <pb facs="tcp:33565:3"/>
+            <head>TO THE Right Honourable <hi>JOHN</hi> Lord <hi>JEFFERYES,</hi> Baron of WEM, &amp;c.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THE Noble Character you are Maſter of, And the kind Re<g ref="char:EOLhyphen"/>ception your Lordſhip has been pleaſ<g ref="char:EOLhyphen"/>ed to give to Things of this Nature has embolden'd me to make this Pre<g ref="char:EOLhyphen"/>ſent to Your Lordſhip. And the Your Lordſhip's Hours are generall Employ'd in more ſerious Exerciſe
+<pb facs="tcp:33565:4"/>yet the Peruſal of ſo Trifling a <hi>Pam<g ref="char:EOLhyphen"/>phlet,</hi> may ſo ſoften your more ſevere Studies, as it may be counted a <hi>Di<g ref="char:EOLhyphen"/>verſion,</hi> if it cannot have the Name of a <hi>Pleaſure.</hi> My Lord, ſince the Corruption of the Age has been ſuch, as to render Things <hi>Animate</hi> ill em<g ref="char:EOLhyphen"/>ployers of their Reaſon, it is but juſt that the Things which are <hi>Inani<g ref="char:EOLhyphen"/>mate,</hi> ſhould ſerve as ſo many In<g ref="char:EOLhyphen"/>ſtructions to 'em; and to give Beaſts, and Things void of Speech, the uſe of their Tongue, cannot be counted as Harm, ſince to take it from Man, who makes ſo ill uſe of it, would <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arry the appearance of Juſtice with it. The two <hi>Flags</hi> which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rave Your Lordſhip's Acceptance, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontend for <hi>Religion</hi> and <hi>Loyalty,</hi>
+               <pb facs="tcp:33565:4"/>and I cannot but think I have done Juſtice to that of the <hi>Court,</hi> in making it prevail in the <hi>Diſpute,</hi> ſince the Church's has ſo far made a Forfeit of Both, as to have no very good Plea to <hi>Either.</hi> But, my Lord, there needs no giving your Lordſhip a light into my Deſign, who will but too ſoon (for its Author) give Your Judgment of it. All I have to do, is, to ask Your Lordſhip's Accept<g ref="char:EOLhyphen"/>ance, and that You would be pleas'd to pardon the Deficiencies of,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's Moſt Obedient Servant. <hi>W. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poetic_dialogue">
+            <pb facs="tcp:33565:5"/>
+            <pb n="1" facs="tcp:33565:5"/>
+            <head>A DIALOGUE Between the FLAG of St. <hi>Martin</hi>'s Steeple, AND THE STANDARD at the <hi>TOWER.</hi>
+            </head>
+            <lg>
+               <l>SInce Beaſts, Fiſh, and Birds</l>
+               <l>Now Diſcourſe, and uſe Words,</l>
+               <l>And Steeples, and Spires fall a Preaching;</l>
+               <l>There's a way, without doubt,</l>
+               <l>For a <hi>Standard</hi> and <hi>Clout,</hi>
+               </l>
+               <l>To ſhew likewiſe their Talent of Speech in.</l>
+            </lg>
+            <sp>
+               <pb n="2" facs="tcp:33565:6"/>
+               <speaker>St. <hi>Martin</hi>'s Flag.</speaker>
+               <lg>
+                  <l>DEar Brother Flag,</l>
+                  <l>You have heard of the <hi>Drag</hi>—</l>
+                  <l>Half a word is enough to the Wiſe;</l>
+                  <l>But Lord, how <hi>Graſhopper</hi>
+                  </l>
+                  <l>Look'd to Monſter ſo proper,</l>
+                  <l>And of ſuch a terrible Size!</l>
+                  <l>I, faith that ſame Beaſt,</l>
+                  <l>Tho' I once was your Jeſt,</l>
+                  <l>And the Subject of Mirth and your Laughter,</l>
+                  <l>With His Talons and Nails</l>
+                  <l>Has quite turn'd the Scales,</l>
+                  <l>And I'm now made a <hi>Man</hi> for hereafter.</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:33565:6"/>
+                  <l>The Church, Boy, the Church!</l>
+                  <l>Both Steeple and Porch,</l>
+                  <l>Is allow'd for a Place that is good:</l>
+               </lg>
+               <lg>
+                  <l>And Egad Sir, when <hi>Majors,</hi>
+                  </l>
+                  <l>Went to <hi>Halls</hi> to ſay <hi>Pray'rs,</hi>
+                  </l>
+                  <l>It was almoſt as much as it cou'd.</l>
+               </lg>
+               <lg>
+                  <l>I muſt needs tell you now,</l>
+                  <l>Without Flatt'ry or Bow,</l>
+                  <l>I'm as good as your ſelf for the future,</l>
+               </lg>
+               <lg>
+                  <l>Tho' you bear a great Name,</l>
+                  <l>Our <hi>Flags</hi> are the ſame,</l>
+                  <l>And our Qualities alſo ſhould ſuit here.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:33565:7"/>
+               <speaker>Standard.</speaker>
+               <lg>
+                  <l>VAin, Silly, poor Rag,</l>
+                  <l>Show his Majeſty's Flag,</l>
+                  <l>The Reſpect which is due to his Place,</l>
+               </lg>
+               <lg>
+                  <l>Nor dare to intrude</l>
+                  <l>With Diſcourſes ſo rude,</l>
+                  <l>And with Words ſo preſumptuous and baſe.</l>
+               </lg>
+               <lg>
+                  <l>Dog, look where I ſtand,</l>
+                  <l>And the City command,</l>
+                  <l>From the King's Royal Tower and Pallace.</l>
+               </lg>
+               <lg>
+                  <l>Whilſt to humour the People,</l>
+                  <l>You are plac'd on the Steeple,</l>
+                  <l>Tho' you'd done as much good on the G—</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:33565:7"/>
+                  <l>One would think 'twas enough</l>
+                  <l>For the Parſon to Huff,</l>
+                  <l>And force Tythes and Reſpect from the Croud;</l>
+               </lg>
+               <lg>
+                  <l>Becauſe he looks Great,</l>
+                  <l>And takes on him ſome State,</l>
+                  <l>Muſt the poor Pariſh-Clout too be proud?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Mar.</hi> Flag.</speaker>
+               <lg>
+                  <l>A <hi>Clout</hi> Sir! for ſhame,</l>
+                  <l>Uſe a decenter Name,</l>
+                  <l>Since I ſtand on a place that's divine,</l>
+               </lg>
+               <lg>
+                  <l>Tho' I coſt not ſo many</l>
+                  <l>A Pound, and fair Penny,</l>
+                  <l>Yet my <hi>Clout</hi>'s a <hi>Flag</hi> as well as thine.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:33565:8"/>
+                  <l>Both <hi>Collectors,</hi> and <hi>Wardens</hi>
+                  </l>
+                  <l>Have contributed <hi>Farthings,</hi>
+                  </l>
+                  <l>To make me look Great as I do:</l>
+               </lg>
+               <lg>
+                  <l>And I think I ſay right,</l>
+                  <l>If with <hi>Main</hi> and <hi>Might,</hi>
+                  </l>
+                  <l>I have done as much good full as you.</l>
+               </lg>
+               <lg>
+                  <l>In ſhort, tho' your <hi>Streamer</hi>
+                  </l>
+                  <l>May powerfull ſeem here,</l>
+                  <l>'Cauſe with <hi>Ditches</hi> and <hi>Guns</hi> ſo ſurrounded,</l>
+               </lg>
+               <lg>
+                  <l>I have known Sir, a time,</l>
+                  <l>When my <hi>Bell-Ferrys</hi> Chime</l>
+                  <l>Has thoſe <hi>Guns,</hi> and thoſe <hi>Ditches</hi> confounded:</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:33565:8"/>
+                  <l>When your <hi>Huffers</hi> and <hi>Dingers</hi>
+                  </l>
+                  <l>Were affraid of my <hi>Ringers,</hi>
+                  </l>
+                  <l>Tho' commanded by ſtout Sir <hi>Ned Hales:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And thoſe you call'd Vermin,</l>
+                  <l>My <hi>Porters</hi> and <hi>Carmen,</hi>
+                  </l>
+                  <l>Made your <hi>Lace-coated Hero</hi>'s turn Tails.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Standard.</speaker>
+               <lg>
+                  <l>YEs, my Friend, that is certain,</l>
+                  <l>Thou deſerv'ſt a great part in</l>
+                  <l>The Bleſſings this Nation has bought:</l>
+               </lg>
+               <lg>
+                  <l>But methought it look'd odly,</l>
+                  <l>To ſee <hi>Clergy</hi> ſo godly,</l>
+                  <l>Diſſent from the Doctrines they taught.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:33565:9"/>
+                  <l>How <hi>Pulpit</hi> and <hi>Desk,</hi>
+                  </l>
+                  <l>With <hi>ſerious</hi> Burleſque,</l>
+                  <l>Laid forth the <hi>Prerogative Royal!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And with <hi>Bell, Book,</hi> and <hi>Candle,</hi>
+                  </l>
+                  <l>Curs'd thoſe who dar'd handle</l>
+                  <l>A Text, which ſhould offer Denyal!</l>
+               </lg>
+               <lg>
+                  <l>But when <hi>Right Divino</hi>
+                  </l>
+                  <l>Grappl'd at the <hi>Church</hi> Rhino,</l>
+                  <l>And the <hi>Tythe-Pigs</hi> were like to be ſeiz'd;</l>
+               </lg>
+               <lg>
+                  <l>Then St. <hi>Martin's</hi> and <hi>Bow,</hi>
+                  </l>
+                  <l>Turn their <hi>Yes, Yes,</hi> to <hi>No,</hi>
+                  </l>
+                  <l>And their Hearers might do as they pleas'd.</l>
+               </lg>
+               <lg>
+                  <l>Prithee where's the Great doing</l>
+                  <l>To help <hi>Save</hi> from Ruine</l>
+                  <l>A people the Church had quite Craz'd?</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:33565:9"/>
+                  <l>How ſo mightily juſt</l>
+                  <l>To lay part of the Duſt,</l>
+                  <l>Which the <hi>Wind</hi> of your <hi>Pulpits</hi> had rais'd?</l>
+               </lg>
+               <lg>
+                  <l>But now keep your diſtance,</l>
+                  <l>I want no Aſſiſtance</l>
+                  <l>From ſuch Raga Muffins, it's certain,</l>
+               </lg>
+               <lg>
+                  <l>Had <hi>Tower Flag</hi> had that Lyon</l>
+                  <l>In thoſe times, as I on,</l>
+                  <l>Let me tell you, a Fart for St. <hi>Martin.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Martin</hi>'s Flag.</speaker>
+               <lg>
+                  <l>YOu are much in the Wrong,</l>
+                  <l>To uſe a foul Tongue,</l>
+                  <l>To a Church where a Prelate did Teach in:</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:33565:10"/>
+                  <l>Tho' the Parſon's ſpeak ill,</l>
+                  <l>Yet the good Biſhops ſtill,</l>
+                  <l>Have an Excellent way in their preaching.</l>
+               </lg>
+               <lg>
+                  <l>Conſider, tho' you are</l>
+                  <l>Counted Beſt, and the Truer,</l>
+                  <l>That <hi>holy Things</hi> will be the Fineſt:</l>
+               </lg>
+               <lg>
+                  <l>And it is but in vain</l>
+                  <l>For a Thing that's <hi>Prophane</hi>
+                  </l>
+                  <l>To pretend to Cope with the <hi>Divineſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Your <hi>Silk</hi> does indeed</l>
+                  <l>My <hi>Calicoe</hi> exceed,</l>
+                  <l>Yet Sir, tho' you ſtand on the <hi>Tower:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I am fix'd on a <hi>Place,</hi>
+                  </l>
+                  <l>Which teaches more Grace,</l>
+                  <l>And ſhould have more Honour and power.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:33565:10"/>
+                  <l>To the <hi>King</hi> you belong,</l>
+                  <l>And I do you no wrong,</l>
+                  <l>If I ſay that my <hi>Maſter</hi> is greater:</l>
+               </lg>
+               <lg>
+                  <l>And I am in a Station,</l>
+                  <l>(Notwithſtanding your Paſſion)</l>
+                  <l>More great, and exceedingly better.</l>
+               </lg>
+               <lg>
+                  <l>Tho' I ſtand like a Fool here,</l>
+                  <l>My <hi>Maſter</hi> as Ruler,</l>
+                  <l>Your Sovereign Lord does preſerve;</l>
+               </lg>
+               <lg>
+                  <l>And tho' he's a <hi>King,</hi>
+                  </l>
+                  <l>It's no uncivil thing,</l>
+                  <l>If I ſay, that your <hi>King</hi> does him ſerve.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:33565:11"/>
+               <speaker>Standard.</speaker>
+               <lg>
+                  <l>I Muſt own Sir, it's true,</l>
+                  <l>
+                     <hi>Give all Folks their due,</hi>
+                  </l>
+                  <l>That the place which you ſtand on is <hi>holy;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But for you to lay claim,</l>
+                  <l>To be counted the ſame,</l>
+                  <l>It looks both like <hi>Madneſs</hi> and <hi>Folly.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Becauſe Biſhop and Prieſt</l>
+                  <l>The Steeple has bleſs'd,</l>
+                  <l>Muſt a Flag of thoſe Bleſſings partake?</l>
+               </lg>
+               <lg>
+                  <l>And becauſe it is ſeated</l>
+                  <l>On a Place Conſecrated,</l>
+                  <l>Be holy for that Place's ſake?</l>
+               </lg>
+               <lg>
+                  <l>By my Troth, Sir, you'r out,</l>
+                  <l>In looking ſo Stout,</l>
+                  <l>And fancying you'r e're a jot better,</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:33565:11"/>
+                  <l>Becauſe you'r ſo near</l>
+                  <l>Houſe of Goodneſs and Pray'r,</l>
+                  <l>Muſt it's Goodneſs belong to your Seat here?</l>
+               </lg>
+               <lg>
+                  <l>No, my Friend, you'r miſtaken</l>
+                  <l>In ſuch merry making,</l>
+                  <l>And are very much out of the Road;</l>
+               </lg>
+               <lg>
+                  <l>I've a much better <hi>Plea,</hi>
+                  </l>
+                  <l>And the <hi>Proverb</hi> for me</l>
+                  <l>Says, <hi>Near the Church, is far from God.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Martin</hi>'s Flag.</speaker>
+               <lg>
+                  <l>HOw? A Court Standard dare<g ref="char:punc">▪</g>
+                  </l>
+                  <l>With a Church to compare,</l>
+                  <l>And pretend to Religion, and Vertue?</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:33565:12" rendition="simple:additions"/>
+                  <l>'Twould be very fine Sport,</l>
+                  <l>To ſee Goodneſs at Court,</l>
+                  <l>Or Divinity there have a Party.</l>
+               </lg>
+               <lg>
+                  <l>Your <hi>Flag</hi> is too fine</l>
+                  <l>For Matters Divine,</l>
+                  <l>Or to deal in Religious Cares;</l>
+               </lg>
+               <lg>
+                  <l>Lord! How Man with Lac'd Coat,</l>
+                  <l>Would be reckon'd to doat,</l>
+                  <l>Should that Coat of his be at <hi>Pray'rs!</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Mar.</hi> Fl.</speaker>
+               <lg>
+                  <l>THat my <hi>Men</hi> in great <hi>Places,</hi>
+                  </l>
+                  <l>And my <hi>Coats</hi> daub'd with <hi>Laces,</hi>
+                  </l>
+                  <l>Don't pay much Reſpect to the Church,</l>
+               </lg>
+               <lg>
+                  <l>Is becauſe your <hi>Black-Coats,</hi>
+                  </l>
+                  <l>So oft change their Notes,</l>
+                  <l>And leave thoſe whom they guide in the Lurch.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:33565:12"/>
+                  <l>But what's this Diſcourſe</l>
+                  <l>To a <hi>Flag</hi> of my Force?</l>
+                  <l>Prithee what didſt thou e're that was Good,</l>
+               </lg>
+               <lg>
+                  <l>Beſides gather the <hi>Mob</hi>
+                  </l>
+                  <l>To break Windows and Rob,</l>
+                  <l>E're ſince on that <hi>Place</hi> thou haſt ſtood?</l>
+               </lg>
+               <lg>
+                  <l>Has that <hi>Flag</hi> of thine</l>
+                  <l>Been ſo Loyal as mine,</l>
+                  <l>(For that is a <hi>Subject</hi>'s Chief Glory)</l>
+               </lg>
+               <lg>
+                  <l>Or ſuch glad Tydings ſhown</l>
+                  <l>To Suburbs and Town,</l>
+                  <l>As my <hi>Standard</hi> which Streams now before ye?</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:33565:13" rendition="simple:additions"/>
+               <speaker>Stand.</speaker>
+               <lg>
+                  <l>YEs, I think, Sir, much more,</l>
+                  <l>To the beſt of my Pow'r,</l>
+                  <l>I was always before-hand with you:</l>
+               </lg>
+               <lg>
+                  <l>Neither <hi>Vict'ry</hi> nor <hi>Rout,</hi>
+                  </l>
+                  <l>But I was hung out,</l>
+                  <l>For the Joyful Spectators to view.</l>
+               </lg>
+               <lg>
+                  <l>I was ready and willing,</l>
+                  <l>When Men <hi>Iniskilling</hi>
+                  </l>
+                  <l>Had one ſingle <hi>Rapparee</hi> ſeiz'd.</l>
+               </lg>
+               <lg>
+                  <l>Strait my Zeal to diſcloſe,</l>
+                  <l>And tell what curſed Blows,</l>
+                  <l>Thoſe Champions could give if they pleas'd.</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:33565:13"/>
+                  <l>With my <hi>Flag</hi> o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my <hi>Staffe</hi>
+                  </l>
+                  <l>How I'd twitter and laugh,</l>
+                  <l>To think that our Side was the Winner.</l>
+               </lg>
+               <lg>
+                  <l>And that we had got</l>
+                  <l>The unmerciful Sot,</l>
+                  <l>And ſafely Secur'd the damn'd Sinner.</l>
+               </lg>
+               <lg>
+                  <l>Whilſt your's all this while,</l>
+                  <l>Would not give one poor Smile;</l>
+                  <l>So far was your <hi>Standard</hi> from <hi>Laughter:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nor had, on my Soul,</l>
+                  <l>Any <hi>Flag</hi> on your <hi>Pole,</hi>
+                  </l>
+                  <l>Or ſhow'd any <hi>Joy</hi> for the <hi>Matter.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:33565:14" rendition="simple:additions"/>
+               <speaker>Stand.</speaker>
+               <lg>
+                  <l>PRithee, what of all this,</l>
+                  <l>Where Have I done amiſs</l>
+                  <l>Becauſe I took on me due State?</l>
+               </lg>
+               <lg>
+                  <l>And as 'twas my place,</l>
+                  <l>Would never debaſe</l>
+                  <l>My <hi>Standard,</hi> in Matters not great?</l>
+               </lg>
+               <lg>
+                  <l>One poor ſilly Thief</l>
+                  <l>To his <hi>Ruine</hi> and <hi>Grief,</hi>
+                  </l>
+                  <l>May be Triumph enough for your <hi>Clout;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But Thouſands muſt die</l>
+                  <l>Before ſuch as I,</l>
+                  <l>Will vouchſafe to Rejoyce or hang out.</l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="tcp:33565:14" rendition="simple:additions"/>
+                  <l>Wherefore, make no Denyal,</l>
+                  <l>But that I am moſt Loyal,</l>
+                  <l>Since I ne'er yet have giv'n that Offence,</l>
+               </lg>
+               <lg>
+                  <l>And never did ſhew</l>
+                  <l>Such Rejoycing as you,</l>
+                  <l>At the <hi>Birth,</hi> Sir, of you know what <hi>Prince.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>St. <hi>Mar.</hi> Fl.</speaker>
+               <lg>
+                  <l>A Good Reaſon why Sir,</l>
+                  <l>Becauſe at that Time, I Sir,</l>
+                  <l>Was in Being, which then you were not:</l>
+               </lg>
+               <lg>
+                  <l>Had you then had your Birth,</l>
+                  <l>You'd have ſhew'd as much Mirth,</l>
+                  <l>As the reſt of us <hi>Flags,</hi> for a <hi>Pot.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="tcp:33565:15"/>
+                  <l>The Flag whom you ſucceed,</l>
+                  <l>Did as all of us did,</l>
+                  <l>And kept as great pother, and Flutter'd:</l>
+               </lg>
+               <lg>
+                  <l>But had not the Church,</l>
+                  <l>Been afraid of Court <hi>Birch,</hi>
+                  </l>
+                  <l>St. <hi>Martins</hi> had plaguily Mutter'd.</l>
+               </lg>
+               <lg>
+                  <l>For to put ſuch damn'd Slights</l>
+                  <l>In our <hi>Freedoms</hi> and <hi>Rights,</hi>
+                  </l>
+                  <l>As a ſpurious <hi>Welch</hi> Heir, was a hard Caſe.</l>
+               </lg>
+               <lg>
+                  <l>'Slife, Sir, if I durſt,</l>
+                  <l>I had ne're been the firſt;</l>
+                  <l>But I mightily love a whole Carcaſs.</l>
+               </lg>
+               <lg>
+                  <l>However I've ſince,</l>
+                  <l>Atton'd for that <hi>Prince,</hi>
+                  </l>
+                  <l>And have been more Zealous and Hearty;</l>
+               </lg>
+               <lg>
+                  <pb n="21" facs="tcp:33565:15"/>
+                  <l>For another gueſs'd Cauſe,</l>
+                  <l>Our <hi>Lives,</hi> and our <hi>Laws,</hi>
+                  </l>
+                  <l>And another gueſs'd <hi>Monarch</hi> and <hi>Party.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Stand.</speaker>
+               <lg>
+                  <l>PRithee, what have you done,</l>
+                  <l>For ſuch Crimes to Attone,</l>
+                  <l>Or recover your Primitive Fame?</l>
+               </lg>
+               <lg>
+                  <l>If your <hi>Flag</hi> did not dare,</l>
+                  <l>Your <hi>Sermons</hi> and <hi>Pray'r,</hi>
+                  </l>
+                  <l>Might ne'r have made uſe of his Name.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:33565:16"/>
+               <speaker>St. <hi>Mar.</hi> Fl.</speaker>
+               <lg>
+                  <l>DOne? By all that is <hi>holy,</hi>
+                  </l>
+                  <l>I admire at your Folly;</l>
+                  <l>Sure, your Reaſon, and Eyes too, are blind:</l>
+               </lg>
+               <lg>
+                  <l>As if my Deſerts,</l>
+                  <l>And Love for <hi>True Hearts,</hi>
+                  </l>
+                  <l>Were Vertues too bright for thy Mind.</l>
+               </lg>
+               <lg>
+                  <l>Why, Man, did not I</l>
+                  <l>Let my Colours fly,</l>
+                  <l>As ſoon as the <hi>News</hi> came to Town,</l>
+               </lg>
+               <lg>
+                  <l>That <hi>Ruſſel</hi> had beat,</l>
+                  <l>And ſunk the <hi>French</hi> Fleet,</l>
+                  <l>And with <hi>Powder</hi> and <hi>Ball,</hi> knock'd 'em down?</l>
+               </lg>
+               <lg>
+                  <pb n="23" facs="tcp:33565:16"/>
+                  <l>I am likewiſe as ſure,</l>
+                  <l>That no ſooner <hi>Namur,</hi>
+                  </l>
+                  <l>Had Surrendred to His Majeſty's Troops,</l>
+               </lg>
+               <lg>
+                  <l>But, Egad, Sir, I ſtrove,</l>
+                  <l>To ſhew my <hi>Zeal</hi> and my <hi>Love,</hi>
+                  </l>
+                  <l>And caus'd many <hi>Halloo's</hi> and <hi>Whoops.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In the mean while, you choſe</l>
+                  <l>To defer your fine <hi>Shows,</hi>
+                  </l>
+                  <l>Till the <hi>News</hi> was Confirm'd by <hi>Expreſs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And then, Sir, you drew</l>
+                  <l>Your <hi>Flag</hi> out, 'tis true,</l>
+                  <l>And in Troth, Friend, how cou'd you do leſs?</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:33565:17"/>
+               <speaker>Stand.</speaker>
+               <lg>
+                  <l>FAith, Sir, I'm too Juſt,</l>
+                  <l>To take <hi>News</hi> ſo on Truſt,</l>
+                  <l>As your unadvis'd Rag has been wont;</l>
+               </lg>
+               <lg>
+                  <l>Great <hi>Folks</hi> in my Station,</l>
+                  <l>Ought to uſe Meditation,</l>
+                  <l>And firſt to conſider upon't.</l>
+               </lg>
+               <lg>
+                  <l>But to Joy for a <hi>Peace</hi>
+                  </l>
+                  <l>Before <hi>Wars</hi> did ceaſe,</l>
+                  <l>And let loſe your poor <hi>Flag</hi> for a <hi>Truce;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What elſe was it thought,</l>
+                  <l>But a Buſineſs of Nought,</l>
+                  <l>It look'd ſo much like an Abuſe?</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:33565:17"/>
+               <speaker>St. <hi>Mar.</hi> Fl.</speaker>
+               <lg>
+                  <l>THat was nothing but <hi>Zeal</hi>
+                  </l>
+                  <l>For the good <hi>Common-Weal;</hi>
+                  </l>
+                  <l>And tho' the <hi>Peace</hi> was not then <hi>Sign'd,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet I knew that it muſt,</l>
+                  <l>And what the <hi>Clergy</hi> miſtruſt,</l>
+                  <l>Muſt always fall out as Divin'd.</l>
+               </lg>
+               <lg>
+                  <l>My good Dr. <hi>L—</hi>
+                  </l>
+                  <l>Vow'd he'd lay a Teſter;</l>
+                  <l>And to each <hi>Overſeer</hi> declar'd,</l>
+               </lg>
+               <lg>
+                  <l>That <hi>Peace</hi> was as ſure,</l>
+                  <l>As he had <hi>Soul's Cure,</hi>
+                  </l>
+                  <l>And he bad me deny't if I dar'd.</l>
+               </lg>
+               <lg>
+                  <pb n="26" facs="tcp:33565:18"/>
+                  <l>Now, how could I refuſe</l>
+                  <l>To Report ſo good <hi>News,</hi>
+                  </l>
+                  <l>Confirm'd by my <hi>Teacher</hi> and <hi>Paſtor?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Or a Servant as I,</l>
+                  <l>Dare make a Reply,</l>
+                  <l>To ſo Knowing and Learned a <hi>Maſter?</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Stand.</speaker>
+               <lg>
+                  <l>BUt you ſaw, Friend, at laſt</l>
+                  <l>Your Belief went too faſt,</l>
+                  <l>And your poſitive <hi>Parſon</hi> had Err'd:</l>
+               </lg>
+               <lg>
+                  <pb n="27" facs="tcp:33565:18"/>
+                  <l>Pray, where had been the Harm,</l>
+                  <l>If you'd ne're took Alarm,</l>
+                  <l>And your <hi>Joys</hi> for ſome time had defer'd?</l>
+               </lg>
+               <lg>
+                  <l>Our Flags then had join'd</l>
+                  <l>To combate the Wind,</l>
+                  <l>And made a moſt faithful Report</l>
+               </lg>
+               <lg>
+                  <l>Of the <hi>Joys</hi> and <hi>Increaſe,</hi>
+                  </l>
+                  <l>Which ſhould flow from the <hi>Peace,</hi>
+                  </l>
+                  <l>And the <hi>Church</hi> been as <hi>true</hi> as the <hi>Court.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But I find 'tis in vain</l>
+                  <l>To attempt to reſtrain</l>
+                  <l>The <hi>Pride</hi> of your Soul at this time;</l>
+               </lg>
+               <lg>
+                  <pb n="28" facs="tcp:33565:19"/>
+                  <l>Or to think the Church Flag</l>
+                  <l>So addicted to Brag,</l>
+                  <l>Should impute to the <hi>Church</hi> any Crime.</l>
+               </lg>
+               <lg>
+                  <l>Wherefore, Sir, Adieu,</l>
+                  <l>Neither Honeſt nor True,</l>
+                  <l>But always by Intereſt guided;</l>
+               </lg>
+               <lg>
+                  <l>Whom Preferment alone,</l>
+                  <l>Makes adhere to the <hi>Throne,</hi>
+                  </l>
+                  <l>And from all but the <hi>Great ones</hi> divided.</l>
+               </lg>
+               <lg>
+                  <l>Since <hi>Pride</hi> won't let you know</l>
+                  <l>The Reſpect which you owe,</l>
+                  <l>I reſer't to another Diſpute,</l>
+               </lg>
+               <lg>
+                  <pb n="29" facs="tcp:33565:19"/>
+                  <l>Tho', if you'd lay'd Claim</l>
+                  <l>To <hi>Senſe,</hi> or to <hi>Shame,</hi>
+                  </l>
+                  <l>By my Soul, Sir, you'd long ſince been mute.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
